@@ -1,0 +1,23 @@
+cat|Small domestic animal|Animals
+dog|Loyal domestic animal|Animals
+horse|Animal used for riding|Animals
+tiger|Large striped cat|Animals
+elephant|Largest land animal|Animals
+giraffe|Animal with a long neck|Animals
+penguin|Bird that cannot fly|Animals
+python|Programming language|Technology
+computer|Electronic machine|Technology
+algorithm|Step by step problem solving method|Technology
+keyboard|Computer input device|Technology
+internet|Global computer network|Technology
+rocket|Vehicle used for space travel|Science
+planet|Object orbiting a star|Science
+galaxy|Large collection of stars|Science
+gravity|Force that attracts objects|Science
+volcano|Mountain that can erupt|Science
+guitar|Musical instrument|Music
+piano|Keyboard instrument|Music
+violin|String instrument|Music
+football|Popular sport|Sports
+basketball|Sport with a hoop|Sports
+tennis|Sport played with rackets|Sports
