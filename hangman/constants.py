@@ -21,15 +21,15 @@ SAVE_FILE = DATA_DIR / "savegame.json"
 DIFFICULTIES = {
     "easy": {
         "name": "Easy",
-        "min_length": 3,
-        "max_length": 5,
-        "lives": 8,
+        "min_length": 1,
+        "max_length": 4,
+        "lives": 7,
         "multiplier": 1
     },
 
     "medium": {
         "name": "Medium",
-        "min_length": 6,
+        "min_length": 5,
         "max_length": 8,
         "lives": 6,
         "multiplier": 2

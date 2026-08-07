@@ -22,12 +22,12 @@ class TerminalUI:
         print(
             Colors.CYAN
             + Colors.BOLD
-            + "=" * 55
+            + "=" * 35
         )
 
-        print("                HANGMAN")
+        print("HANGMAN".center(35))
 
-        print("=" * 55 + Colors.RESET)
+        print("=" * 35 + Colors.RESET)
 
     # ------------------------------------------------
 
