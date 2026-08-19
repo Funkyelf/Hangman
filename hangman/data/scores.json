@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Anton",
+        "score": 460,
+        "wins": 2,
+        "games": 2
+    },
+    {
+        "name": "Anton",
+        "score": 360,
+        "wins": 1,
+        "games": 1
+    },
+    {
+        "name": "Anton",
+        "score": 355,
+        "wins": 1,
+        "games": 1
+    },
+    {
+        "name": "Anton",
+        "score": 330,
+        "wins": 1,
+        "games": 1
+    },
+    {
+        "name": "Lea",
+        "score": 330,
+        "wins": 1,
+        "games": 1
+    },
+    {
+        "name": "Anton",
+        "score": 250,
+        "wins": 1,
+        "games": 1
+    }
+]

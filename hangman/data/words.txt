@@ -1,0 +1,34 @@
+cat|Small domestic animal|Animals
+dog|Loyal domestic animal|Animals
+horse|Animal used for riding|Animals
+tiger|Large striped cat|Animals
+elephant|Largest land animal|Animals
+giraffe|Animal with a long neck|Animals
+penguin|Bird that cannot fly|Animals
+crocodile|Looks like a log|Animals
+code|Computer instructions|Technology
+python|Programming language|Technology
+algorithm|Step by step problem solving method|Technology
+computer|Electronic machine|Technology
+telemetry|Positional data|Technology
+keyboard|Computer input device|Technology
+internet|Global computer network|Technology
+acid|Dissolves stuff|Science
+gas|Solid -> Liquid ->|Science
+rocket|Vehicle used for space travel|Science
+planet|Object orbiting a star|Science
+galaxy|Large collection of stars|Science
+gravity|Force that attracts objects|Science
+volcano|Mountain that can erupt|Science
+mitochondria|The powerhouse of the cell|Science
+feta|Crumbly white cheese|Food
+Naan|Bread but not bread|Food
+baguette|French hon hon hon|Food
+salsa|Taco sauce|Food
+marmalade|Fruit preserve|Food
+dragonfruit|Cool looking and sounding|Food
+golf|Rich mans sport|Sports
+Crew|Team but different|Sports
+football|Popular sport|Sports
+basketball|Sport with a hoop|Sports
+tennis|Sport played with rackets|Sports

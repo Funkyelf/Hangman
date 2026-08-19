@@ -1,0 +1,25 @@
+{
+    "player": {
+        "name": "Anton",
+        "score": 355,
+        "games_played": 1,
+        "wins": 1,
+        "losses": 0,
+        "words_guessed": 1,
+        "achievements": [
+            "first_win",
+            "hard_mode",
+            "no_hints"
+        ]
+    },
+    "word": "mitochondria",
+    "hint": "The powerhouse of the cell",
+    "category": "Science",
+    "difficulty": "hard",
+    "guessed": [
+        "c"
+    ],
+    "wrong": 0,
+    "score": 10,
+    "used_hint": false
+}
