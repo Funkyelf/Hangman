@@ -22,10 +22,17 @@ class ScoreManager:
             "games": player.games_played
         }
 
-        self.scores.append(entry)
+        # Update existing player instead of adding a duplicate
+        for i, existing in enumerate(self.scores):
+            if existing["name"] == player.name:
+                self.scores[i] = entry
+                break
+            
+        else:
+            # Player doesn't exist yet
+            self.scores.append(entry)
 
         self.scores.sort(key=lambda x: x["score"], reverse=True)
-
 
         # keep top 100
         self.scores = self.scores[:100]
